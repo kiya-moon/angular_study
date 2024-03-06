@@ -1,4 +1,4 @@
-# angular_study
+# angularJS_study
 
 </br>
 
